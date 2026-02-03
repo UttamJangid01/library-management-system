@@ -119,7 +119,7 @@ src/main/java/com
 ### 1. Clone Repository
 
 bash
-git clone https://github.com/your-username/lms-api.git
+git clone https://github.com/UttamJangid01/library-management-system.git
 cd lms-api
 
 2. Create MySQL Database
